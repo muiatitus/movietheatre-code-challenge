@@ -1,0 +1,13 @@
+
+  /* Center align the movie details section */
+  #movie-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  /* Reduce the size of the movie poster */
+  #poster {
+    width: 200px; /* Adjust the width as needed */
+  }
