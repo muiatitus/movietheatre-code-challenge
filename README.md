@@ -18,7 +18,7 @@ The Movie Theater System is a web-based application built using HTML, CSS, and J
 
 ## Screenshots
 
-Images of the full zoomed out page and what is displayed when tickets are sold out and what is displayed when they are still available
+Images of the full zoomed out page and what is displayed when tickets are sold out and what is displayed when they are still available  
 ![display when tickets are sold out](resources/Screenshot%20from%202023-07-06%2011-55-49.png "display when tickets are sold out")
 ![display when tickets are still available](resources/Screenshot%20from%202023-07-06%2011-56-07.png "display when tickets are still available")
 
